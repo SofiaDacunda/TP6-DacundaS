@@ -1,4 +1,4 @@
-package org.example;
+package resol.DacundaS;
 
 import static org.junit.Assert.assertTrue;
 
